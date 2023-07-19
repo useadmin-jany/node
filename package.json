@@ -1,16 +1,16 @@
 {
 	"name": "testnpm",
-	"author": "useadmin-jany",
 	"dependencies": {
 		
 		"express": "^4.14.0"
-			
-	
 	},
+	"author": "jiangbing",
+
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
+
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
