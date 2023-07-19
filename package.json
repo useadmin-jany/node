@@ -4,7 +4,7 @@
 		
 		"express": "^4.14.0"
 	},
-	"author": "jiangbing",
+	"author": "bing jiang",
 
 	"main": "server.js",
 	"scripts": {
