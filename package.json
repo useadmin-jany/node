@@ -1,9 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "jiangbing",
+	"author": "useadmin-jany",
 	"dependencies": {
 		
-		"express": "^4.14.0"	
+		"express": "^4.14.0"
+			
 	
 	},
 	"main": "server.js",
